@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27602#The-True-Story-Book
 gutenberg_issued: '2008-12-23'
 gutenberg_type: Text
 identifiers:
